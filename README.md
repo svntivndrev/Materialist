@@ -1,2 +1,11 @@
-# Materialist
-Materialist is a minimalist theme with larger keys for comfortable typing and a subtle floating layout. Includes light and dark variants, adapts to system colors, and follows Material Design for a clean, cohesive Android look.
+# Materialist: Theme for FlorisBoard
+
+This is a custom FlorisBoard theme created using the built-in theme editor.
+The exported `.flex` file represents the full source of the theme.
+
+## Installation
+Import the `.flex` file in FlorisBoard via:
+Settings → Theme → Import
+
+## License
+CC BY-NC 4.0
