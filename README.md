@@ -11,14 +11,14 @@ Settings → Theme → Import
 
 # Screenshots
 <p align="center">
-  <img src="screenshots/1.png" width="30%" />
-  <img src="screenshots/2.png" width="30%" />
-  <img src="screenshots/3.png" width="30%" />
+  <img src="screenshots/1.jpg" width="30%" />
+  <img src="screenshots/2.jpg" width="30%" />
+  <img src="screenshots/3.jpg" width="30%" />
 </p>
 
 <p align="center">
-  <img src="screenshots/4.png" width="30%" />
-  <img src="screenshots/5.png" width="30%" />
+  <img src="screenshots/4.jpg" width="30%" />
+  <img src="screenshots/5.jpg" width="30%" />
 </p>
 
 
