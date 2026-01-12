@@ -7,6 +7,19 @@ The exported `.flex` file represents the full source of the theme.
 Import the `.flex` file in FlorisBoard via:
 Settings → Theme → Import
 
+# Screenshots
+<p align="center">
+  <img src="screenshots/1.png" width="30%" />
+  <img src="screenshots/2.png" width="30%" />
+  <img src="screenshots/3.png" width="30%" />
+</p>
+
+<p align="center">
+  <img src="screenshots/4.png" width="30%" />
+  <img src="screenshots/5.png" width="30%" />
+</p>
+
+
 ## License
 This theme is released under the MIT License.
 
