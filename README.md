@@ -8,9 +8,12 @@ Import the `.flex` file in FlorisBoard via:
 Settings → Theme → Import
 
 ## License
-CC BY-NC 4.0
+This theme is released under the MIT License.
 
 ## Support
 
 If you find this theme useful and would like to support my work, a small donation or a follow on Instagram is always appreciated.
 https://www.instagram.com/svntivndrev/
+
+## Note
+This theme was created as a free community contribution. Commercial redistribution is discouraged, and attribution or support is always appreciated.
