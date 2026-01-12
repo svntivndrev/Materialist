@@ -3,7 +3,10 @@
 This is a custom FlorisBoard theme created using the built-in theme editor.
 The exported `.flex` file represents the full source of the theme.
 
-<img src="screenshots/materialist.png" width="30%" />
+<p align="left">
+  <img src="screenshots/materialist dark.png" width="30%" />
+  <img src="screenshots/materialist light.png" width="30%" />
+</p>
 
 ## Installation
 Import the `.flex` file in FlorisBoard via:
