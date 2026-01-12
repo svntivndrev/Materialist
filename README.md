@@ -9,3 +9,8 @@ Settings → Theme → Import
 
 ## License
 CC BY-NC 4.0
+
+## Support
+
+If you find this theme useful and would like to support my work, a small donation or a follow on Instagram is always appreciated.
+https://www.instagram.com/svntivndrev/
